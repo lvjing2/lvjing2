@@ -1,4 +1,4 @@
-### Architect and Engineer Jing Lv (吕静)
+### Architect and Engineer (赵真灵)
 
 <!--
 **lvjing2/lvjing2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

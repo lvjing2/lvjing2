@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-从事云原生、Serverless 和微服务领域方向。2018 年加入蚂蚁集团， 负责基于 K8s Deployment 的应用发布运维平台建设、K8s 集群的 Node / pod 多级弹性伸缩与产品建设。当前主要负责微服务与应用架构演进和 Serverless 相关工作，帮助蚂蚁集团内部各业务线共 60W core 业务量完成 10倍级的降本增效，其中 [Koupleless](https://github.com/koupleless/koupleless) (原 [SOFAServerless](https://github.com/sofastack/sofa-serverless))获得 2022 年信通院云原生技术创新奖。
+从事云原生、Serverless 和微服务领域方向。2018 年加入蚂蚁集团， 负责基于 K8s Deployment 的应用发布运维平台建设、K8s 集群的 Node / pod 多级弹性伸缩与产品建设。当前主要负责微服务与应用架构演进和 Serverless 相关工作，帮助蚂蚁集团内部各业务线共 70W core 业务量完成 10倍级的降本增效，其中 [Koupleless](https://github.com/koupleless/koupleless) (原 [SOFAServerless](https://github.com/sofastack/sofa-serverless))获得 2022 年信通院云原生技术创新奖。
 
 <img src="https://komarev.com/ghpvc/?username=lvjing2" align="right" style="margin: 5px; margin-bottom: 20px;"/>
